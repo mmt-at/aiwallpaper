@@ -30,9 +30,9 @@ export async function POST(req: Request) {
 
   // await insertUser(userInfo);
   
-  return Response.json({
-    user: userInfo,
-  })
+  // return Response.json({
+  //   user: userInfo,
+  // })
 
   const client = getOpenAIClient();
 
