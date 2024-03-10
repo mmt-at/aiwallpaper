@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/gen-wallpaper/POST": {
+    "api/gen-wallpaper": {
       "maxDuration": 10
     }
   }
